@@ -32,7 +32,7 @@ Merci de n’utiliser **que les vidéos fournies** dans le dossier `sample_video
 1. Ouvrir le notebook via le lien ci-dessus
 2. Se connecter à l’environnement Colab (bouton `Connexion` en haut à droite)
 3. Exécuter toutes les cellules (via `Ctrl+F9` ou le bouton 'Tout exécuter')
-4. Lorsque demandé, **uploader l’une des vidéos fournies** (ex. `video_test_1.mp4`)
+4. Lorsque demandé, **uploader l’une des vidéos fournies**
 5. Le script analyse la vidéo et affiche automatiquement les résultats
 
 ---
